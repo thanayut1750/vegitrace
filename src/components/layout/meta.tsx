@@ -3,7 +3,7 @@ import Head from "next/head";
 const DOMAIN = "https://extrapolate.app";
 
 export default function Meta({
-  title = "Extrapolate - Transform your face with Artificial Intelligence",
+  title = "VegiTrace",
   description = "Extrapolate is an app for you to see how well you age by transforming your face with Artificial Intelligence. 100% free and privacy friendly.",
   image = `${DOMAIN}/api/og`,
 }: {
